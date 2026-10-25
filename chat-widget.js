@@ -5,7 +5,7 @@
 (function () {
   "use strict";
 
-  var WHATSAPP_URL = "https://wa.me/923275310818";
+  var WHATSAPP_URL = "https://wa.me/923007500006";
   var API_URL = "/api/chat";
   var TEAL = "#4CAF5E";
   var AVATAR = "logo-mark.jpg";
